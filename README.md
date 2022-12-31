@@ -16,3 +16,17 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+<br>
+<p align="center">Before adding Todos</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (49).png"></p>
+<br>
+<p align="center">Adding a Todo</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (50).png"></p>
+<br>
+<p align="center">Added Todos</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (51).png"></p>
+<br>
+<p align="center">Upcomming and Completed Todos</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (53).png"></p>
+<br>
