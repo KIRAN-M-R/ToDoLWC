@@ -80,6 +80,14 @@ export default class ToDoManager extends LightningElement {
         })
     }
 
+    updateHandler() {
+        this.fetchToDos();
+    }
+
+    deleteHandler() {
+        this.fetchToDos();
+    }
+
     get upcomingTasks(){
         return this.todos && this.todos.length ? this.todos.filter(todo =>!todo.done) : []
     }
