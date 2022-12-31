@@ -11,6 +11,14 @@
 .upcoming {
     background-color: lightcoral;
 }
+.upcoming:hover {
+    background-color: aliceblue;
+    border-radius: 16px;
+}
 .completed {
     background-color: darkturquoise;
+}
+.completed:hover {
+    background-color: aquamarine;
+    border-radius: 16px;
 }
